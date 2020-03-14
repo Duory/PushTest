@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PushTest</string>
+    <string name="token_error">Чёт не так с токеном</string>
+    <string name="token_view">token</string>
+    <string name="token_updated">Токен обновился</string>
+    <string name="token_label">Token:</string>
+    <string name="topic_label">Топик</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="unsubscribe">Отписаться</string>
+    <string name="topic_empty">Введи топик</string>
+    <string name="msg_subscribed">Успешно подписались</string>
+    <string name="msg_subscribe_failed">Не удалось подписаться</string>
+    <string name="msg_unsubscribe_failed">Отписка не удалась</string>
+    <string name="msg_unsubscribed">Отписались</string>
+</resources>
